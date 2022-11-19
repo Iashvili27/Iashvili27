@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Iashvili27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, CSS, React JS, React Native, Node JS.
-- 📫 How to reach me ...
-
 
